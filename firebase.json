@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"myaurapp",
+    "site":"aura-website-3610b",
     "public": "dist",
     "rewrites": [ {
         "source": "**",
